@@ -7,6 +7,7 @@ public class HelloWorld {
 		
 		System.out.println("Main - Helloo World");
 		HelloWorld.main(34);
+		HelloWorld.main(65);
 		
 
 	}
@@ -15,6 +16,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Second - Helloo World"+a);
+		System.out.println("Third - Helloo World"+a);
+		
 		
 
 	}
